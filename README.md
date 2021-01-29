@@ -1,4 +1,7 @@
-### Hi there 👋
+
+JielinCode is the first and the only multi-functional algorithm in the world. It based on Wang Jielin's new probability model, evolved a series of algorithms like compression, encryption, error detection and correction, digital fingerprint extraction, random number generator, etc.
+
+Please visit our GitHub for a more details about #JielinCode and it's algorithms.
 
 <!--
 **Jielin-Code/JieLin-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
